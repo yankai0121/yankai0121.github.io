@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>王延开</title>
+    <link>https://example.org/</link>
+    <description>Recent content on 王延开</description>
     <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Thu, 18 Dec 2025 18:26:42 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>今日</title>
-      <link>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5/</link>
+      <link>https://example.org/posts/%E4%BB%8A%E6%97%A5/</link>
       <pubDate>Thu, 18 Dec 2025 18:26:42 +0100</pubDate>
-      <guid>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5/</guid>
+      <guid>https://example.org/posts/%E4%BB%8A%E6%97%A5/</guid>
       <description>&lt;h1 id=&#34;贺新郎别茂嘉十二弟&#34;&gt;贺新郎·别茂嘉十二弟&lt;/h1&gt;
-&lt;p&gt;绿树听鹈鴂。更那堪、鹧鸪声住，杜鹃声切。啼到春归无寻处，苦恨芳菲都歇。算未抵、人间离别。马上琵琶关塞黑，更长门、翠辇辞金阙。看燕燕，送归妾。
-将军百战身名裂。向河梁、回头万里，故人长绝。易水萧萧西风冷，满座衣冠似雪。正壮士、悲歌未彻。啼鸟还知如许恨，料不啼清泪长啼血。谁共我，醉明月。&lt;/p&gt;</description>
+&lt;p&gt;666&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

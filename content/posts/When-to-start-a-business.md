@@ -1,6 +1,6 @@
 +++
 date = '2026-01-04T02:45:05+01:00'
-draft = true
+draft = 0
 title = 'When to Start a Business'
 +++
 

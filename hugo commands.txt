@@ -1,0 +1,7 @@
+hugo new content/posts/.md
+hugo
+git add .
+git commit -m "New post"
+git push
+
+git subtree push --prefix public origin gh-pages

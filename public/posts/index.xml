@@ -6,15 +6,52 @@
     <description>Recent content in Posts on 王延开</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Dec 2025 18:26:42 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 11:42:45 +0100</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>今日</title>
-      <link>https://example.org/posts/%E4%BB%8A%E6%97%A5/</link>
-      <pubDate>Thu, 18 Dec 2025 18:26:42 +0100</pubDate>
-      <guid>https://example.org/posts/%E4%BB%8A%E6%97%A5/</guid>
-      <description>&lt;h1 id=&#34;贺新郎别茂嘉十二弟&#34;&gt;贺新郎·别茂嘉十二弟&lt;/h1&gt;
-&lt;p&gt;666&lt;/p&gt;</description>
+      <title>Trae Test</title>
+      <link>https://example.org/posts/trae-test/</link>
+      <pubDate>Sat, 31 Jan 2026 11:42:45 +0100</pubDate>
+      <guid>https://example.org/posts/trae-test/</guid>
+      <description>&lt;p&gt;LOL&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stop Consuming</title>
+      <link>https://example.org/posts/stop-consuming/</link>
+      <pubDate>Fri, 16 Jan 2026 03:14:03 +0100</pubDate>
+      <guid>https://example.org/posts/stop-consuming/</guid>
+      <description>&lt;p&gt;It is high time to stop sonsuming and create something great with this life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When to Start a Business</title>
+      <link>https://example.org/posts/when-to-start-a-business/</link>
+      <pubDate>Sun, 04 Jan 2026 02:45:05 +0100</pubDate>
+      <guid>https://example.org/posts/when-to-start-a-business/</guid>
+      <description>&lt;p&gt;robomartin on Feb 2, 2024&lt;/p&gt;
+&lt;p&gt;My favorite quote:
+&amp;ldquo;A man holding a cat by the tail learns something he can learn in no other way&amp;rdquo; -Mark Twain&lt;/p&gt;
+&lt;p&gt;You need to grab that tail and learn things you will not otherwise.&lt;/p&gt;
+&lt;p&gt;From that it follows that the answer to your question is: As early as possible.&lt;/p&gt;
+&lt;p&gt;This also means you probably should not make your first experiences the most grandiose ideas. You might actually want to assume failure. Don&amp;rsquo;t assume you know anything about business at all. Jump in. Make mistakes. Learn. If you get lucky, great. If your experience is +/- on standard deviation from the mean, you&amp;rsquo;ll come out of the experience all cut-up and bloody (image: holding cat by tail). And you will also come out with tons of wisdom. That&amp;rsquo;s why you don&amp;rsquo;t bet the farm on your first attempts. You are far more likely to fail. Don&amp;rsquo;t worry. Keep going. Make small bets. Don&amp;rsquo;t risk it all in one hand. Make small bets and learn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lifestyle creep</title>
+      <link>https://example.org/posts/lifestyle_creep/</link>
+      <pubDate>Wed, 31 Dec 2025 22:05:55 +0100</pubDate>
+      <guid>https://example.org/posts/lifestyle_creep/</guid>
+      <description>&lt;p&gt;Lifestyle creep is when someone increases their spending after experiencing an increase in income or as a way of keeping up with their peers.&lt;/p&gt;
+&lt;p&gt;Once you spend more than 50% of your future raises, then you start delaying your retirement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to save more</title>
+      <link>https://example.org/posts/how_to_save_more/</link>
+      <pubDate>Wed, 31 Dec 2025 00:09:46 +0100</pubDate>
+      <guid>https://example.org/posts/how_to_save_more/</guid>
+      <description>&lt;p&gt;Dminishing marginal utility: Eeach additional unit of consumption brings about less benefit than the unit before it.&lt;/p&gt;
+&lt;p&gt;The biggest lie in personal finace is that you can be rich if you just cut your spending.&lt;/p&gt;
+&lt;p&gt;The most consistent way to get rich is to grow your income and invest in income-producing assets.&lt;/p&gt;
+&lt;p&gt;The main porint is to tighten up where you can, then focus on increasing your income.&lt;/p&gt;
+&lt;p&gt;Sell your time/expertise: Doesn&amp;rsquo;t scale. Can&amp;rsquo;t get extremely wealthy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

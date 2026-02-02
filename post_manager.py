@@ -35,7 +35,23 @@ def create_post():
     
     if run_command(command):
         print(f"\nPost created successfully at: {post_path}")
-        print("You can now open this file in your editor to write content.")
+        print("Opening file...")
+        try:
+            # Convert to absolute path to avoid issues with relative paths/slashes
+            abs_path = os.path.abspath(post_path)
+            if os.path.exists(abs_path):
+                os.startfile(abs_path)
+            else:
+                print(f"File not found: {abs_path}")
+        except AttributeError:
+            # Fallback for non-Windows systems
+            if sys.platform == 'darwin':
+                subprocess.call(('open', post_path))
+            elif sys.platform.startswith('linux'):
+                subprocess.call(('xdg-open', post_path))
+        except Exception as e:
+            print(f"Could not automatically open file: {e}")
+            
         return title
     return None
 

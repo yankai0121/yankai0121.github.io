@@ -3,24 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/posts/</loc>
-    <lastmod>2026-02-02T14:12:39+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/ultimate-test/</loc>
-    <lastmod>2026-02-02T14:12:39+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2026-02-02T14:12:39+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/file-open-test-3/</loc>
-    <lastmod>2026-02-02T14:09:34+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/trae-test-2/</loc>
-    <lastmod>2026-01-31T12:34:02+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/trae-test/</loc>
-    <lastmod>2026-01-31T11:42:45+01:00</lastmod>
+    <lastmod>2026-01-16T03:14:03+01:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/stop-consuming/</loc>
+    <lastmod>2026-01-16T03:14:03+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
     <lastmod>2026-01-16T03:14:03+01:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/when-to-start-a-business/</loc>

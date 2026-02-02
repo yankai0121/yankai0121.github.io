@@ -6,8 +6,22 @@
     <description>Recent content on 王延开</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 31 Jan 2026 12:34:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 14:12:39 +0100</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate Test</title>
+      <link>https://example.org/posts/ultimate-test/</link>
+      <pubDate>Mon, 02 Feb 2026 14:12:39 +0100</pubDate>
+      <guid>https://example.org/posts/ultimate-test/</guid>
+      <description>&lt;p&gt;666&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>File Open Test 3</title>
+      <link>https://example.org/posts/file-open-test-3/</link>
+      <pubDate>Mon, 02 Feb 2026 14:09:34 +0100</pubDate>
+      <guid>https://example.org/posts/file-open-test-3/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Trae Test 2</title>
       <link>https://example.org/posts/trae-test-2/</link>

@@ -6,8 +6,19 @@
     <description>Recent content on 王延开</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Feb 2026 15:48:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:56:32 +0100</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Thoughts</title>
+      <link>https://example.org/posts/daily-thoughts/</link>
+      <pubDate>Sat, 07 Feb 2026 00:56:32 +0100</pubDate>
+      <guid>https://example.org/posts/daily-thoughts/</guid>
+      <description>&lt;p&gt;It is a fucking open world. Do what you really want.&lt;/p&gt;
+&lt;p&gt;Make your own rules.&lt;/p&gt;
+&lt;p&gt;No phone in bed.&lt;/p&gt;
+&lt;p&gt;No headphones whenever possible.&lt;/p&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Eat</title>
       <link>https://example.org/posts/how-to-eat/</link>

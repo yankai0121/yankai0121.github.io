@@ -1,0 +1,67 @@
+/* 始终生效的主题配色：暗金岁月 (Midnight Gold) */
+
+/* 1. 强制应用到所有根节点 */
+:root, .dark, [data-theme='dark'], [data-theme='light'] {
+    --theme: #1a1b1e !important;      /* 全局主背景 */
+    --entry: #212226 !important;      /* 卡片背景 */
+    --primary: #E5C07B !important;    /* 琥珀金 - 用于标题 */
+    --secondary: #ABB2BF !important;  /* 浅灰色 - 用于正文 */
+    --tertiary: #3b4048 !important;   /* 边框和装饰线 */
+    --content: #ABB2BF !important;    /* 正文颜色统一为浅灰 */
+    --code-bg: #282c34 !important;    /* 代码背景 */
+    --code-block-bg: #1e2227 !important;
+    --border: #333333 !important;
+
+    background-color: #1a1b1e !important;
+}
+
+/* 2. 布局背景修正 */
+body, .main, .header, .footer, .list {
+    background: #1a1b1e !important;
+    color: #ABB2BF !important; /* 全局默认正文颜色设为浅灰 */
+}
+
+/* 3. 文章内页与首页预览的背景修正 */
+.post-single, .post-content, .entry-header, .entry-content, .entry-footer {
+    background: transparent !important;
+}
+
+/* 4. 正文颜色精确控制 (重点修改) */
+/* 确保主页预览文字和文章内部文字都是浅灰色 */
+.entry-content, .post-content, .post-description, .post-meta {
+    color: #ABB2BF !important;
+}
+
+/* 5. 文章标题与导航链接 (保留琥珀金) */
+h1, h2, h3, h4, h5, h6, .post-title, .entry-hint-parent, .header a, .footer a {
+    color: #E5C07B !important;
+}
+
+/* 6. 链接交互 */
+a {
+    color: #E5C07B !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #D19A66 !important;
+    text-decoration: underline !important;
+}
+
+/* 7. 文章列表卡片优化 (主页) */
+.post-entry {
+    background: #212226 !important;
+    border: 1px solid #333333 !important;
+    margin-bottom: 20px !important;
+    padding: 20px !important;
+    border-radius: 8px !important;
+    transition: transform 0.2s, border-color 0.2s !important;
+}
+
+.post-entry:hover {
+    border-color: #E5C07B !important;
+    transform: translateY(-2px) !important;
+}
+
+/* 8. 隐藏切换按钮 */
+#theme-toggle { display: none !important; }

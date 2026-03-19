@@ -1,134 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>王延开</title>
-    <link>https://example.org/</link>
-    <description>Recent content on 王延开</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Feb 2026 16:47:51 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>小资金做大</title>
-      <link>https://example.org/posts/%E5%B0%8F%E8%B5%84%E9%87%91%E5%81%9A%E5%A4%A7/</link>
-      <pubDate>Mon, 09 Feb 2026 16:47:51 +0100</pubDate>
-      <guid>https://example.org/posts/%E5%B0%8F%E8%B5%84%E9%87%91%E5%81%9A%E5%A4%A7/</guid>
-      <description>&lt;p&gt;单日上涨10%以上，卖出30%到40%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Thoughts</title>
-      <link>https://example.org/posts/daily-thoughts/</link>
-      <pubDate>Sat, 07 Feb 2026 00:56:32 +0100</pubDate>
-      <guid>https://example.org/posts/daily-thoughts/</guid>
-      <description>&lt;p&gt;It is a fucking open world. Do what you really want.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>王延开</title><link>http://localhost:1313/</link><description>Recent content on 王延开</description><generator>Hugo -- 0.152.2</generator><language>zh-cn</language><lastBuildDate>Fri, 20 Mar 2026 00:16:43 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Gemini Cli Test</title><link>http://localhost:1313/posts/gemini-cli-test/</link><pubDate>Fri, 20 Mar 2026 00:16:43 +0100</pubDate><guid>http://localhost:1313/posts/gemini-cli-test/</guid><description>&lt;p&gt;哈哈哈&lt;/p&gt;</description></item><item><title>Daily Thoughts</title><link>http://localhost:1313/posts/daily-thoughts/</link><pubDate>Sat, 07 Feb 2026 00:56:32 +0100</pubDate><guid>http://localhost:1313/posts/daily-thoughts/</guid><description>&lt;p&gt;It is a fucking open world. Do what you really want.&lt;/p&gt;
 &lt;p&gt;Make your own rules.&lt;/p&gt;
 &lt;p&gt;No phone in bed.&lt;/p&gt;
 &lt;p&gt;No headphones whenever possible.&lt;/p&gt;
-&lt;p&gt;Enjoy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Eat</title>
-      <link>https://example.org/posts/how-to-eat/</link>
-      <pubDate>Thu, 05 Feb 2026 15:48:50 +0100</pubDate>
-      <guid>https://example.org/posts/how-to-eat/</guid>
-      <description>&lt;h1 id=&#34;-weight-gain--recovery-plan&#34;&gt;🏋️ Weight Gain &amp;amp; Recovery Plan&lt;/h1&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;</description></item><item><title>How to Eat</title><link>http://localhost:1313/posts/how-to-eat/</link><pubDate>Thu, 05 Feb 2026 15:48:50 +0100</pubDate><guid>http://localhost:1313/posts/how-to-eat/</guid><description>&lt;h1 id="-weight-gain--recovery-plan"&gt;🏋️ Weight Gain &amp;amp; Recovery Plan&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Target:&lt;/strong&gt; Recover to 75 kg (from 64 kg)
 &lt;strong&gt;Daily Target:&lt;/strong&gt; ~2,900 Calories | ~140g Protein&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-1-the-daily-schedule&#34;&gt;📅 1. The Daily Schedule&lt;/h2&gt;
+&lt;h2 id="-1-the-daily-schedule"&gt;📅 1. The Daily Schedule&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Consistency is key. Aim to follow this schedule 7 days a week.&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Meal&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Time&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Menu Items&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Nutrition Goals&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Breakfast&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;08:00&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;The Mass Shake&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;Blend the following:&lt;!-- raw HTML omitted --&gt;• 100g Oats&lt;!-- raw HTML omitted --&gt;• 350ml Whole Milk&lt;!-- raw HTML omitted --&gt;• 2 tbsp Peanut Butter&lt;!-- raw HTML omitted --&gt;• 1 Banana&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;850 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;35g Protein&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Lunch&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;13:00&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Rice/Pasta Bowl&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 150g Pasta or Rice (weighed dry)&lt;!-- raw HTML omitted --&gt;• 150g Ground Beef or Chicken Thighs&lt;!-- raw HTML omitted --&gt;• 1 cup Mixed Veggies&lt;!-- raw HTML omitted --&gt;• 1 tbsp Olive Oil (for cooking)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;750 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;40g Protein&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Snack&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;16:30&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Nuts &amp;amp; Fruit&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 60g Nuts (Almonds/Walnuts/Peanuts)&lt;!-- raw HTML omitted --&gt;• 1 Apple&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;500 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;15g Protein&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Dinner&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;20:00&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Potato &amp;amp; Eggs Plate&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 400g Potatoes (Mashed/Boiled) + 1 tbsp Butter&lt;!-- raw HTML omitted --&gt;• 3 Large Eggs (Fried/Scrambled) or 1 tin Tuna&lt;!-- raw HTML omitted --&gt;• 250ml glass of Whole Milk&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;800 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;40g Protein&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;TOTAL&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;~2,900 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;~130g+ Protein&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left"&gt;Meal&lt;/th&gt;
+&lt;th style="text-align: left"&gt;Time&lt;/th&gt;
+&lt;th style="text-align: left"&gt;Menu Items&lt;/th&gt;
+&lt;th style="text-align: left"&gt;Nutrition Goals&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Breakfast&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;08:00&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;The Mass Shake&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;Blend the following:&lt;!-- raw HTML omitted --&gt;• 100g Oats&lt;!-- raw HTML omitted --&gt;• 350ml Whole Milk&lt;!-- raw HTML omitted --&gt;• 2 tbsp Peanut Butter&lt;!-- raw HTML omitted --&gt;• 1 Banana&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;850 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;35g Protein&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Lunch&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;13:00&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Rice/Pasta Bowl&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 150g Pasta or Rice (weighed dry)&lt;!-- raw HTML omitted --&gt;• 150g Ground Beef or Chicken Thighs&lt;!-- raw HTML omitted --&gt;• 1 cup Mixed Veggies&lt;!-- raw HTML omitted --&gt;• 1 tbsp Olive Oil (for cooking)&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;750 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;40g Protein&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Snack&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;16:30&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Nuts &amp;amp; Fruit&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 60g Nuts (Almonds/Walnuts/Peanuts)&lt;!-- raw HTML omitted --&gt;• 1 Apple&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;500 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;15g Protein&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Dinner&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;20:00&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Potato &amp;amp; Eggs Plate&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• 400g Potatoes (Mashed/Boiled) + 1 tbsp Butter&lt;!-- raw HTML omitted --&gt;• 3 Large Eggs (Fried/Scrambled) or 1 tin Tuna&lt;!-- raw HTML omitted --&gt;• 250ml glass of Whole Milk&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;800 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;40g Protein&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;TOTAL&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;~2,900 kcal&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;~130g+ Protein&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-2-shopping-lists-no-freezer-strategy&#34;&gt;🛒 2. Shopping Lists (No Freezer Strategy)&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Shopping is split twice a week to keep meat and produce fresh.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When Can You Retire</title>
-      <link>https://example.org/posts/when-can-you-retire/</link>
-      <pubDate>Tue, 03 Feb 2026 17:42:46 +0100</pubDate>
-      <guid>https://example.org/posts/when-can-you-retire/</guid>
-      <description>&lt;p&gt;4% rule: save 25 times your expected spending in your first year of retirement. Spending increase by 3% each year. &amp;ndash; relatively conservative&lt;/p&gt;
+&lt;h2 id="-2-shopping-lists-no-freezer-strategy"&gt;🛒 2. Shopping Lists (No Freezer Strategy)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Shopping is split twice a week to keep meat and produce fresh.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>When Can You Retire</title><link>http://localhost:1313/posts/when-can-you-retire/</link><pubDate>Tue, 03 Feb 2026 17:42:46 +0100</pubDate><guid>http://localhost:1313/posts/when-can-you-retire/</guid><description>&lt;p&gt;4% rule: save 25 times your expected spending in your first year of retirement. Spending increase by 3% each year. &amp;ndash; relatively conservative&lt;/p&gt;
 &lt;p&gt;The crossover point rule: When your monthly investment income exceeds your monthly expenses.&lt;/p&gt;
-&lt;p&gt;Crossover assets = Monthly expenses * Monthly investment return&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stop Consuming</title>
-      <link>https://example.org/posts/stop-consuming/</link>
-      <pubDate>Fri, 16 Jan 2026 03:14:03 +0100</pubDate>
-      <guid>https://example.org/posts/stop-consuming/</guid>
-      <description>&lt;p&gt;It is high time to stop sonsuming and create something great with this life.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When to Start a Business</title>
-      <link>https://example.org/posts/when-to-start-a-business/</link>
-      <pubDate>Sun, 04 Jan 2026 02:45:05 +0100</pubDate>
-      <guid>https://example.org/posts/when-to-start-a-business/</guid>
-      <description>&lt;p&gt;robomartin on Feb 2, 2024&lt;/p&gt;
+&lt;p&gt;Crossover assets = Monthly expenses * Monthly investment return&lt;/p&gt;</description></item><item><title>Stop Consuming</title><link>http://localhost:1313/posts/stop-consuming/</link><pubDate>Fri, 16 Jan 2026 03:14:03 +0100</pubDate><guid>http://localhost:1313/posts/stop-consuming/</guid><description>&lt;p&gt;It is high time to stop sonsuming and create something great with this life.&lt;/p&gt;</description></item><item><title>When to Start a Business</title><link>http://localhost:1313/posts/when-to-start-a-business/</link><pubDate>Sun, 04 Jan 2026 02:45:05 +0100</pubDate><guid>http://localhost:1313/posts/when-to-start-a-business/</guid><description>&lt;p&gt;robomartin on Feb 2, 2024&lt;/p&gt;
 &lt;p&gt;My favorite quote:
 &amp;ldquo;A man holding a cat by the tail learns something he can learn in no other way&amp;rdquo; -Mark Twain&lt;/p&gt;
 &lt;p&gt;You need to grab that tail and learn things you will not otherwise.&lt;/p&gt;
 &lt;p&gt;From that it follows that the answer to your question is: As early as possible.&lt;/p&gt;
-&lt;p&gt;This also means you probably should not make your first experiences the most grandiose ideas. You might actually want to assume failure. Don&amp;rsquo;t assume you know anything about business at all. Jump in. Make mistakes. Learn. If you get lucky, great. If your experience is +/- on standard deviation from the mean, you&amp;rsquo;ll come out of the experience all cut-up and bloody (image: holding cat by tail). And you will also come out with tons of wisdom. That&amp;rsquo;s why you don&amp;rsquo;t bet the farm on your first attempts. You are far more likely to fail. Don&amp;rsquo;t worry. Keep going. Make small bets. Don&amp;rsquo;t risk it all in one hand. Make small bets and learn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lifestyle creep</title>
-      <link>https://example.org/posts/lifestyle_creep/</link>
-      <pubDate>Wed, 31 Dec 2025 22:05:55 +0100</pubDate>
-      <guid>https://example.org/posts/lifestyle_creep/</guid>
-      <description>&lt;p&gt;Lifestyle creep is when someone increases their spending after experiencing an increase in income or as a way of keeping up with their peers.&lt;/p&gt;
-&lt;p&gt;Once you spend more than 50% of your future raises, then you start delaying your retirement.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to save more</title>
-      <link>https://example.org/posts/how_to_save_more/</link>
-      <pubDate>Wed, 31 Dec 2025 00:09:46 +0100</pubDate>
-      <guid>https://example.org/posts/how_to_save_more/</guid>
-      <description>&lt;p&gt;Dminishing marginal utility: Eeach additional unit of consumption brings about less benefit than the unit before it.&lt;/p&gt;
+&lt;p&gt;This also means you probably should not make your first experiences the most grandiose ideas. You might actually want to assume failure. Don&amp;rsquo;t assume you know anything about business at all. Jump in. Make mistakes. Learn. If you get lucky, great. If your experience is +/- on standard deviation from the mean, you&amp;rsquo;ll come out of the experience all cut-up and bloody (image: holding cat by tail). And you will also come out with tons of wisdom. That&amp;rsquo;s why you don&amp;rsquo;t bet the farm on your first attempts. You are far more likely to fail. Don&amp;rsquo;t worry. Keep going. Make small bets. Don&amp;rsquo;t risk it all in one hand. Make small bets and learn.&lt;/p&gt;</description></item><item><title>Lifestyle creep</title><link>http://localhost:1313/posts/lifestyle_creep/</link><pubDate>Wed, 31 Dec 2025 22:05:55 +0100</pubDate><guid>http://localhost:1313/posts/lifestyle_creep/</guid><description>&lt;p&gt;Lifestyle creep is when someone increases their spending after experiencing an increase in income or as a way of keeping up with their peers.&lt;/p&gt;
+&lt;p&gt;Once you spend more than 50% of your future raises, then you start delaying your retirement.&lt;/p&gt;</description></item><item><title>How to save more</title><link>http://localhost:1313/posts/how_to_save_more/</link><pubDate>Wed, 31 Dec 2025 00:09:46 +0100</pubDate><guid>http://localhost:1313/posts/how_to_save_more/</guid><description>&lt;p&gt;Dminishing marginal utility: Eeach additional unit of consumption brings about less benefit than the unit before it.&lt;/p&gt;
 &lt;p&gt;The biggest lie in personal finace is that you can be rich if you just cut your spending.&lt;/p&gt;
 &lt;p&gt;The most consistent way to get rich is to grow your income and invest in income-producing assets.&lt;/p&gt;
 &lt;p&gt;The main porint is to tighten up where you can, then focus on increasing your income.&lt;/p&gt;
-&lt;p&gt;Sell your time/expertise: Doesn&amp;rsquo;t scale. Can&amp;rsquo;t get extremely wealthy.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;Sell your time/expertise: Doesn&amp;rsquo;t scale. Can&amp;rsquo;t get extremely wealthy.&lt;/p&gt;</description></item></channel></rss>

@@ -4,6 +4,8 @@ title = '王延开'
 theme = 'PaperMod'
 
 [params]
+  defaultTheme = "dark"
+  disableThemeToggle = true
   env = 'production'
   # 资源压缩相关 (Suggestion 5)
   [params.assets]

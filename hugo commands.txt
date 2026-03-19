@@ -1,7 +1,17 @@
-hugo new content/posts/.md
-hugo
-git add .
-git commit -m "New post"
-git push
+# --- Hugo Blog Workflow (Updated) ---
 
-git subtree push --prefix public origin gh-pages
+1. Create a new post:
+   hugo new content/posts/your-post-name.md
+
+2. (Optional) Preview locally:
+   hugo server -D
+
+3. Deploy (via GitHub Actions):
+   git add .
+   git commit -m "Your commit message"
+   git push
+
+Note: 
+- The local 'hugo' build is no longer necessary for deployment.
+- GitHub Actions in '.github/workflows/hugo.yaml' handles the production build and deploy.
+- Remember to update 'baseURL' in 'hugo.toml' to your actual blog URL.

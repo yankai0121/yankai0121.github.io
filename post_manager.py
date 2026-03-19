@@ -56,20 +56,15 @@ def create_post():
     return None
 
 def deploy(commit_message=None):
-    """Build and deploy the site."""
-    print("\n--- Deploying to GitHub Pages ---")
+    """Stage, commit, and push changes to trigger GitHub Actions deployment."""
+    print("\n--- Pushing Changes to GitHub ---")
     
-    # 1. Build the site
-    if not run_command("hugo"):
-        print("Build failed. Aborting deployment.")
-        return
-
-    # 2. Stage changes
+    # 1. Stage changes
     if not run_command("git add ."):
         print("Git add failed. Aborting.")
         return
 
-    # 3. Commit changes
+    # 2. Commit changes
     if not commit_message:
         commit_message = input("Enter commit message (default: 'New post'): ").strip()
         if not commit_message:
@@ -79,18 +74,12 @@ def deploy(commit_message=None):
     if not run_command(f'git commit -m "{commit_message}"'):
         print("Git commit failed (maybe nothing to commit?). Continuing anyway...")
 
-    # 4. Push source to main/master
+    # 3. Push to main
     if not run_command("git push"):
         print("Git push failed. Aborting.")
         return
 
-    # 5. Push to gh-pages subtree
-    print("Pushing subtree to gh-pages... This might take a moment.")
-    if not run_command("git subtree push --prefix public origin gh-pages"):
-        print("Subtree push failed.")
-        return
-
-    print("\nSUCCESS: Site deployed!")
+    print("\nSUCCESS: Changes pushed! GitHub Actions will now build and deploy your site.")
 
 def main():
     while True:

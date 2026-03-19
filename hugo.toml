@@ -3,6 +3,26 @@ languageCode = 'zh-cn'
 title = '王延开'
 theme = 'PaperMod'
 
+[params]
+  env = 'production'
+  # 资源压缩相关 (Suggestion 5)
+  [params.assets]
+    disableFingerprinting = false
+    disableHLJS = false
+
+# 性能优化 (Suggestion 5)
+[minify]
+  disableXML = false
+  minifyOutput = true
+
+[imaging]
+  # 图像自动处理
+  anchor = 'smart'
+  quality = 75
+  resampleFilter = 'lanczos'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+  [caches.assets]
+    dir = ':cacheDir/assets'
